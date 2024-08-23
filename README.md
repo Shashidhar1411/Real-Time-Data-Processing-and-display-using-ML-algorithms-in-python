@@ -17,7 +17,7 @@ This project implements a real-time data processing and display system using Pyt
 - NumPy
 - Matplotlib
 - Scikit-learn
-- Socket
+- Socket Programming
 - IPython.display
 - Plotly
 - PySerial
@@ -69,7 +69,7 @@ jupyter notebook client.ipynb
 server.py: TCP server for generating raw Ethernet data packets
 client.ipynb: Jupyter Notebook for data processing and visualization
 requirements.txt: List of Python dependencies
-README.md: Project documentation (this file)
+README.md: Project documentation 
 
 ## Results
 The project outputs real-time graphs for different machine learning algorithms, showcasing their performance over time.
